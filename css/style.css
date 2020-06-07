@@ -1,0 +1,15 @@
+table{
+
+ width:650px;
+ text-align:center;
+ margin: 50px auto;
+ background-color: #ddd;
+}
+table,th,td{
+	border-collapse:collapse;
+	border:2px solid black;
+	color: black;
+}
+table caption{
+	background-color: #ddd;
+}
